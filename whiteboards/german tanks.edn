@@ -6,7 +6,7 @@
 :block/parent 
 {:block/uuid #uuid "647580bb-8292-43e8-8a31-156a8d99c3a4"}
 :block/uuid #uuid "647580d4-71d0-48e9-a37a-314a572744fc"} 
-{:block/created-at 1685422347334
+{:block/created-at 1688453325494
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +22,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 93]
+:size [400 179.00000962635016]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +31,8 @@
 :point [307.0633544921875 228.30465698242188]
 :parentId "647580bb-8292-43e8-8a31-156a8d99c3a4"
 :collapsedHeight 0
-:nonce 1685422342073}}
-:block/updated-at 1685422347334})
+:nonce 1685422342076}}
+:block/updated-at 1688453325494})
 :pages (
 {:block/uuid #uuid "647580bb-8292-43e8-8a31-156a8d99c3a4"
 :block/properties 
@@ -45,7 +45,7 @@
 :nonce 1
 :assets []
 :shapes-index ("c3761c70-fea5-11ed-a2c7-55dc5383647c")}}
-:block/updated-at 1685422347334
+:block/updated-at 1688453325494
 :block/created-at 1685422267489
 :block/type "whiteboard"
 :block/name "german tanks"
