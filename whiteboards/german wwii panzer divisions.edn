@@ -1,0 +1,133 @@
+{:blocks (
+{:block/created-at 1686158846191
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "1st panzer division"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [429.4927978515625 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fdc07900-fea2-11ed-a2c7-55dc5383647c"
+:noFill false
+:point [112.36914198147315 112.4698636948649]
+:parentId "64757c59-602e-4325-90e9-852f782f2631"
+:collapsedHeight 0
+:nonce 1685421151653}}
+:block/updated-at 1686158846191} 
+{:block/content "test"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64757c59-602e-4325-90e9-852f782f2631"}
+:block/parent 
+{:block/uuid #uuid "64757c59-602e-4325-90e9-852f782f2631"}
+:block/properties 
+{}
+:block/uuid #uuid "6480bddb-f15c-4fa8-a834-db90c154b7c2"} 
+{:block/created-at 1686158829591
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6480bddb-f15c-4fa8-a834-db90c154b7c2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99999875253468]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7c850f60-0558-11ee-a49d-014554b2b95c"
+:noFill false
+:point [247.25570309077176 484.75223493675765]
+:parentId "64757c59-602e-4325-90e9-852f782f2631"
+:collapsedHeight 0
+:nonce 1686158810152}}
+:block/updated-at 1686158829591} 
+{:block/created-at 1686158829591
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "853a8592-0558-11ee-a49d-014554b2b95c"
+:fontWeight 400
+:noFill true
+:point [367.89 243.68]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [18 0]
+:bindingId "853a8590-0558-11ee-a49d-014554b2b95c"}
+:end 
+{:id "end"
+:canBind true
+:point [0 237.07]
+:bindingId "853a8591-0558-11ee-a49d-014554b2b95c"}}
+:decorations 
+{:end "arrow"}
+:parentId "64757c59-602e-4325-90e9-852f782f2631"
+:nonce 1686158824621
+:italic false}}
+:block/updated-at 1686158829591})
+:pages (
+{:block/uuid #uuid "64757c59-602e-4325-90e9-852f782f2631"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64757c59-602e-4325-90e9-852f782f2631"
+:name "german wwii panzer divisions"
+:bindings 
+{:853a8590-0558-11ee-a49d-014554b2b95c 
+{:id "853a8590-0558-11ee-a49d-014554b2b95c"
+:type "line"
+:fromId "853a8592-0558-11ee-a49d-014554b2b95c"
+:toId "fdc07900-fea2-11ed-a2c7-55dc5383647c"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:853a8591-0558-11ee-a49d-014554b2b95c 
+{:id "853a8591-0558-11ee-a49d-014554b2b95c"
+:type "line"
+:fromId "853a8592-0558-11ee-a49d-014554b2b95c"
+:toId "7c850f60-0558-11ee-a49d-014554b2b95c"
+:handleId "end"
+:point [0.3 0.6]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("fdc07900-fea2-11ed-a2c7-55dc5383647c" "7c850f60-0558-11ee-a49d-014554b2b95c" "853a8592-0558-11ee-a49d-014554b2b95c")}}
+:block/updated-at 1686158846191
+:block/created-at 1685421145921
+:block/type "whiteboard"
+:block/name "german wwii panzer divisions"
+:block/original-name "german wwii panzer divisions"})}

@@ -1,0 +1,43 @@
+{:blocks (
+{:block/content "PLA Air to air missiles"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480bd38-0c9c-410e-80fb-d612fce16bb3"}
+:block/parent 
+{:block/uuid #uuid "6480bd38-0c9c-410e-80fb-d612fce16bb3"}
+:block/properties 
+{}
+:block/uuid #uuid "6480bd48-0854-4671-b4f2-7c75744965bb"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480bd48-0854-4671-b4f2-7c75744965bb"}
+:block/parent 
+{:block/uuid #uuid "6480bd38-0c9c-410e-80fb-d612fce16bb3"}
+:block/properties 
+{}
+:block/uuid #uuid "6480bd66-76e7-445a-a027-06bdc2f9de47"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480bd66-76e7-445a-a027-06bdc2f9de47"}
+:block/parent 
+{:block/uuid #uuid "6480bd38-0c9c-410e-80fb-d612fce16bb3"}
+:block/uuid #uuid "6480bdc6-7e66-411f-b8a6-52e1c8b95cc9"})
+:pages (
+{:block/uuid #uuid "6480bd38-0c9c-410e-80fb-d612fce16bb3"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6480bd38-0c9c-410e-80fb-d612fce16bb3"
+:name "pla notes"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1686158792892
+:block/created-at 1686158648554
+:block/type "whiteboard"
+:block/name "pla notes"
+:block/original-name "pla notes"})}
